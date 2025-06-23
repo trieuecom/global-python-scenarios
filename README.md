@@ -23,12 +23,12 @@ Simulates a blacksmith evaluating and reforging a katana blade to meet a require
 
 ### 🧪 Example
 
-Similarity score: 0.62
-Denied: You must reforge it.
-Line (1/5) [####]: 4
+- Similarity score: 0.62
+- Denied: You must reforge it.
+- Line (1/5) [####]: 4
 ...
-Similarity score: 0.93
-Accepted: The blacksmith is satisfied.
+- Similarity score: 0.93
+- Accepted: The blacksmith is satisfied.
 
 
 ---
